@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.2820cd89.css",
+    "main.js": "/react_upload/static/js/main.36a733b7.js",
+    "static/media/Crodia.png": "/react_upload/static/media/Crodia.57389f43ae0ee2cef0a6.png",
+    "index.html": "/react_upload/index.html",
+    "main.2820cd89.css.map": "/react_upload/static/css/main.2820cd89.css.map",
+    "main.36a733b7.js.map": "/react_upload/static/js/main.36a733b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2820cd89.css",
+    "static/js/main.36a733b7.js"
+  ]
+}
